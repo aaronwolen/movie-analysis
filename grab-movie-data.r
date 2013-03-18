@@ -1,5 +1,5 @@
 # Movie title pattern (e.g, Star Wars: Episode V)
-titles <- "Star Wars:"
+titles <- "Star Wars"
 
 # Load data
 data(movies, package = "ggplot2")
